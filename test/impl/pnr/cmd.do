@@ -1,0 +1,12 @@
+-d C:\Users\alienware\Desktop\RISC-V_project\test\impl\gwsynthesis\test.vg
+-p GW2AR-18C-QFN88-8
+-pn GW2AR-LV18QN88C8/I7
+-cst C:\Users\alienware\Desktop\RISC-V_project\test\src\test.cst
+-cfg C:\Users\alienware\Desktop\RISC-V_project\test\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23
