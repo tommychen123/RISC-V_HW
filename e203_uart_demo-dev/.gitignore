@@ -1,0 +1,7 @@
+*.vcd
+*.out
+*.bin
+*.elf
+*.map
+gowin_prj/impl/
+*.log
